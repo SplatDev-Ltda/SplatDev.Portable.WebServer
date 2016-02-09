@@ -10,11 +10,11 @@ Visit the [Project](http://www.zueuz.com/en-us/projects/portable-aspnet-web-serv
 
 Future versions will include:
 
- +Integration with Redis noDB
- +Management features
- +MVC Default Route
- +Webforms Default Document
- +Advanced File Browser
- +Web Stats
+ + Integration with Redis noDB
+ + Management features
+ + MVC Default Route
+ + Webforms Default Document
+ + Advanced File Browser
+ + Web Stats
 
 If you would like to collaborate, please fill out the [Form](http://www.zueuz.com/en-us/projects/portable-aspnet-web-server/#tab-collaboration)
