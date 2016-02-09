@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PiW.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="webAutoStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">80</Value>
+    </Setting>
+    <Setting Name="webRoot" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="vRoot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/</Value>
+    </Setting>
+    <Setting Name="appType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MVC</Value>
+    </Setting>
+    <Setting Name="listen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Loopback</Value>
+    </Setting>
+    <Setting Name="redisAutoStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefaultDocs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">index.html,default.html,index.aspx,default.aspx</Value>
+    </Setting>
+    <Setting Name="MVCroot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/Home/</Value>
+    </Setting>
+    <Setting Name="Users" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{"user":"admin","password":"pwd","group":"admin"},{"user":"guest","password":"pwd","group":"guests"}</Value>
+    </Setting>
+    <Setting Name="Groups" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{"group":"admin","read":true,"write":true},{"group":"guests","read":true,"write":false}</Value>
+    </Setting>
+    <Setting Name="showPanel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

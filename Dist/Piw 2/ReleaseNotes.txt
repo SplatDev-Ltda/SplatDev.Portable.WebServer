@@ -1,0 +1,22 @@
+Release Notes
+-----------------------------
+
+version 2.1
+-----------------------------
+* Added option to map MVC root (Home)
+* Fixed auto startup options and args (cmd)
+
+
+Version 2
+-----------------------------
+* Added configuration save button
+* Updated to .NET v4
+* UI improvements (Cleaner UI, less buttons)
+
+
+Version 1.1
+-----------------------------
+* Fixed command line parsing bug
+* Support for relative app path
+* UI improvements (Cleaner UI, About box)
+* Request processing improved

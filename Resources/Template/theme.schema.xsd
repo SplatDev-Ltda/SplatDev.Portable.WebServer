@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://portableaspserver.net"
+    elementFormDefault="qualified"
+    xmlns="http://porableaspserver.net/theme.schema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+  <xs:element name="theme">
+    <xs:complexType>
+      <xs:attribute name="name" type="xs:string"></xs:attribute>
+      <xs:attribute name="creator" type="xs:string"></xs:attribute>
+      <xs:attribute name="createdon" type="xs:date"></xs:attribute>
+
+    </xs:complexType>
+
+  </xs:element>
+
+
+</xs:schema>

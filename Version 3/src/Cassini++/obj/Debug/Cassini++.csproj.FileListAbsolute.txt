@@ -1,0 +1,49 @@
+C:\Users\carlos.casalicchio\Dropbox\__Downloads\cassini++ 1.1 src\src\Cassini++\bin\Debug\web-server.ico
+C:\Users\carlos.casalicchio\Dropbox\__Downloads\cassini++ 1.1 src\src\Cassini++\obj\Debug\Cassinipp.AboutBox.resources
+C:\Users\carlos.casalicchio\Dropbox\__Downloads\cassini++ 1.1 src\src\Cassini++\obj\Debug\Cassinipp.MainForm.resources
+C:\Users\carlos.casalicchio\Dropbox\__Downloads\cassini++ 1.1 src\src\Cassini++\obj\Debug\Cassinipp.Properties.Resources.resources
+C:\Users\carlos.casalicchio\Dropbox\__Downloads\cassini++ 1.1 src\src\Cassini++\obj\Debug\Cassini++.csproj.GenerateResource.Cache
+C:\Users\carlos.casalicchio\Dropbox\__Downloads\cassini++ 1.1 src\src\Cassini++\bin\Debug\Portable Asp.Net Web Server.exe.config
+C:\Users\carlos.casalicchio\Dropbox\__Downloads\cassini++ 1.1 src\src\Cassini++\bin\Debug\Portable Asp.Net Web Server.exe
+C:\Users\carlos.casalicchio\Dropbox\__Downloads\cassini++ 1.1 src\src\Cassini++\bin\Debug\Portable Asp.Net Web Server.pdb
+C:\Users\carlos.casalicchio\Dropbox\__Downloads\cassini++ 1.1 src\src\Cassini++\obj\Debug\Portable Asp.Net Web Server.exe
+C:\Users\carlos.casalicchio\Dropbox\__Downloads\cassini++ 1.1 src\src\Cassini++\obj\Debug\Portable Asp.Net Web Server.pdb
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\web-server.ico
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Cassinipp.AboutBox.resources
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Cassinipp.MainForm.resources
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Cassinipp.Properties.Resources.resources
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Cassini++.csproj.GenerateResource.Cache
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\Portable Asp.Net Web Server.exe.config
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\Portable Asp.Net Web Server.exe
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\Portable Asp.Net Web Server.pdb
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Portable Asp.Net Web Server.exe
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Portable Asp.Net Web Server.pdb
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Cassini++.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\Portable Asp.Net Web Server.exe.config
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Portable Asp.Net Web Server.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Portable Asp.Net Web Server.pdb
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Cassini++.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Cassinipp.AboutBox.resources
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Cassinipp.MainForm.resources
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Cassinipp.Properties.Resources.resources
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\obj\Debug\Cassini++.csproj.GenerateResource.Cache
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\web-server.ico
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\Portable Asp.Net Web Server.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\Portable Asp.Net Web Server.pdb
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\Resources\Bin\redis-benchmark.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\Resources\Bin\redis-check-aof.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\Resources\Bin\redis-check-dump.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\Resources\Bin\redis-cli.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\Resources\Bin\redis-server.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\Resources\Bin\redis.conf
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\src\Cassini++\bin\Debug\Resources\Bin\dump.rdb
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Portable Asp.Net Web Server.exe.config
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\Portable Asp.Net Web Server.exe
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\Portable Asp.Net Web Server.pdb
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Portable Internet Server.exe.config
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Portable Internet Web.exe.config
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\Cassini++.csprojResolveAssemblyReference.cache
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\Cassinipp.AboutBox.resources
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\Cassinipp.MainForm.resources
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\PiW.Properties.Resources.resources
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\Cassini++.csproj.GenerateResource.Cache

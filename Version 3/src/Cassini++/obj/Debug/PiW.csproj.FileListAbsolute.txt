@@ -1,0 +1,40 @@
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\PiW.AboutBox.resources
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\PiW.MainForm.resources
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\PiW.Properties.Resources.resources
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\PiW.csproj.GenerateResource.Cache
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Portable Internet Web.exe.config
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\PiW.csprojResolveAssemblyReference.cache
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\redis-benchmark.exe
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\redis-check-aof.exe
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\redis-check-dump.exe
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\redis-cli.exe
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\redis-server.exe
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\redis.conf
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\dump.rdb
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Portable Internet Web.exe
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Portable Internet Web.pdb
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\Portable Internet Web.exe
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\Portable Internet Web.pdb
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\www\index.html
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Portable Internet Web.exe.config
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\Portable Internet Web.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\Portable Internet Web.pdb
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\PiW.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\PiW.AboutBox.resources
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\PiW.MainForm.resources
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\PiW.Properties.Resources.resources
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\PiW.csproj.GenerateResource.Cache
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\www\index.html
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\redis-benchmark.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\redis-check-aof.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\redis-check-dump.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\redis-cli.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\redis-server.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\redis.conf
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Resources\Bin\dump.rdb
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Portable Internet Web.exe
+C:\Users\CarlosAugusto\Dropbox\cassini2\trunk\Version 3\src\Cassini++\bin\Debug\Portable Internet Web.pdb
+C:\Users\carlos.casalicchio\Dropbox\cassini2\trunk\Version 3\src\Cassini++\obj\Debug\PiW.frmWebSettings.resources
+C:\Users\CarlosAugusto\Dropbox\Development\Cassini Web Server\trunk\Version 3\src\Cassini++\bin\Debug\Portable Internet Web.exe.config
+C:\Users\CarlosAugusto\Dropbox\Development\Cassini Web Server\trunk\Version 3\src\Cassini++\obj\Debug\Portable Internet Web.exe
+C:\Users\CarlosAugusto\Dropbox\Development\Cassini Web Server\trunk\Version 3\src\Cassini++\obj\Debug\Portable Internet Web.pdb
